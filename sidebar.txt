@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dem:home|Door43 (dem)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dem|d43-dem repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dem/archive/master.zip|d43-dem.zip]]
+
+**Recent Changes**
+{{changes>ns = dem}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dem|Ethnologue data]]
+
